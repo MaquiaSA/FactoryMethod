@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public abstract class BiomeFactory {
+public abstract class Biome {
     protected int biomeSizeX = 500;
     protected int biomeSizeY = 500;
     protected int time = 0;

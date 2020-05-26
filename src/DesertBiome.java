@@ -1,4 +1,4 @@
-public class DesertBiome extends BiomeFactory{
+public class DesertBiome extends Biome{
     @Override
     public Zombie spawnZombie() {
         Zombie husk = new Husk();

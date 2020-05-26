@@ -1,4 +1,4 @@
-public class OceanBiome extends BiomeFactory {
+public class OceanBiome extends Biome {
     @Override
     public Zombie spawnZombie() {
         Zombie drown = new Drown();

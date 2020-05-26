@@ -1,4 +1,4 @@
-public class PlainBiome extends BiomeFactory {
+public class PlainBiome extends Biome {
 
     @Override
     public Zombie spawnZombie() {
